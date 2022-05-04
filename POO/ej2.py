@@ -1,6 +1,6 @@
 from tkinter.tix import NoteBook
 from tkinter.ttk import Notebook
-from Fundamentos_informaticaANA.POO.Teoria.materiales.aves import Golondrina
+from Fundamentos_informaticaANA.POO.Teoria.materiales.aves.py import Golondrina
 
 
 class Golondrina:

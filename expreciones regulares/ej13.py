@@ -5,3 +5,4 @@ def reemplazar(string):
 print(reemplazar("hola como est//s"))
 print(reemplazar("holac//apo"))
 
+#hddh
